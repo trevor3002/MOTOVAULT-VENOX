@@ -16,7 +16,7 @@ Mobile-first workshop companion for tracking motorcycle dismantling and rebuildi
 ## Deploy
 The `.github/workflows/deploy.yml` workflow deploys the static app whenever code is pushed to `main`. In GitHub, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions** if it is not already selected.
 
-If the site shows a 404, open the repository's **Actions** tab and check the latest **Deploy MotoVault to GitHub Pages** run. The app URL is https://trevor3002.github.io/MOTOVAULT-VENOX/.
+If the site shows a 404, open the repository's **Actions** tab and check the latest **Deploy MotoVault to GitHub Pages** run. A new deployment trigger was pushed on 21 October 2026. The app URL is https://trevor3002.github.io/MOTOVAULT-VENOX/.
 
 ## Install on iPhone
 1. Open https://trevor3002.github.io/MOTOVAULT-VENOX/ in Safari after the Pages deployment succeeds.
