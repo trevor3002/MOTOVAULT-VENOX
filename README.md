@@ -27,4 +27,4 @@ If the site shows a 404, open the repository's **Actions** tab and check the lat
 Inventory, notes and checklist data are saved in browser local storage on the device where they are entered. Use **Bike profile → Export backup** regularly. Browser data does not automatically sync between devices. Photos are stored in the browser as resized images and may use significant local storage.
 
 ## Manual and safety
-The manual screen is a topic index for the KYMCO Venox 250 service manual, not a replacement for the complete manual. Verify the motorcycle's exact model year/version before applying specifications, and use a qualified mechanic for safety-critical work.
+The Manual screen includes a direct link to the complete KYMCO Venox 250 service manual PDF hosted by KYMCO. If an older message appears on an iPhone, refresh the page after deployment. Verify the motorcycle's exact model year/version before applying specifications, and use a qualified mechanic for safety-critical work.
