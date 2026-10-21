@@ -23,3 +23,5 @@ Inventory, notes and checklist data are saved in browser local storage on the de
 The supplied reference is a KYMCO Venox 250 Service Manual dated March 2002. This initial app contains a chapter topic index, not the PDF itself. The manual publication date does not establish the motorcycle's model year. Verify the VIN, engine identity and exact variant before relying on torque values or repair procedures. Brakes, steering, suspension, fuel and engine internals require correct model-specific specifications.
 
 MotoVault is an organizational tool, not a substitute for the correct service manual or qualified mechanical work.
+
+Deployment check: latest push should trigger the GitHub Pages workflow.
